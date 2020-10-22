@@ -9,3 +9,5 @@ Consider supporting me through Buy Me A Coffee!
 |---|---|
 |AlexNet|![AlexNet](https://github.com/khvmaths/Neural-Network-Architectures-in-LaTeX/blob/main/img/AlexNet.png)|
 |VGG-16|![VGG-16](https://github.com/khvmaths/Neural-Network-Architectures-in-LaTeX/blob/main/img/VGG-16.png)|
+
+Overleaf project is available [here](https://www.overleaf.com/read/kwytypspwjxx).
