@@ -10,5 +10,6 @@ If you find this helpful to you, remember to click star above. Consider supporti
 |AlexNet|![AlexNet](https://github.com/khvmaths/Neural-Network-Architectures-in-LaTeX/blob/main/img/AlexNet.png)|
 |VGG-16|![VGG-16](https://github.com/khvmaths/Neural-Network-Architectures-in-LaTeX/blob/main/img/VGG-16.png)|
 |LeNet|![LeNet](https://github.com/khvmaths/Neural-Network-Architectures-in-LaTeX/blob/main/img/LeNet.png)|
+|ZFNet|![ZFNet](https://github.com/khvmaths/Neural-Network-Architectures-in-LaTeX/blob/main/img/ZFNet.png)|
 
 Overleaf project is available [here](https://www.overleaf.com/read/kwytypspwjxx).
